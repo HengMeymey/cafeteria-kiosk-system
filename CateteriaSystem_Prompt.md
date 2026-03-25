@@ -1,4 +1,3 @@
-# ws0_6조_카페테리아_pwt.md
 # Prompt Used for AI Code Generation – Cafeteria Ordering System
 
 ---
