@@ -24,7 +24,9 @@ It demonstrates:
 ### Compile:
 ```bash
 javac CafeteriaSystem.java
+```
 
 ### Run:
 ```bash
 java CafeteriaSystem
+```
